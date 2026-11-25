@@ -11,3 +11,7 @@ Mở Terminal tại thư mục gốc và chạy lệnh (thay `Cau1` bằng `Cau2
 javac Cau1/Main.java
 java -cp Cau1 Main
 ```
+```bash
+javac Cau2/Main.java
+java -cp Cau2 Main
+```
