@@ -15,3 +15,11 @@ java -cp Cau1 Main
 javac Cau2/Main.java
 java -cp Cau2 Main
 ```
+```bash
+javac Cau3/Main.java
+java -cp Cau3 Main
+```
+```bash
+javac Cau4/Main.java
+java -cp Cau4 Main
+```
